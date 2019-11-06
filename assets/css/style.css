@@ -6,6 +6,7 @@ body {
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background: url('../images/background.png');
+    overflow-x: hidden;
 }
 
 header {
@@ -27,4 +28,9 @@ footer {
 h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.navbar {
+    text-decoration: none;
+    color: #777777;
 }
